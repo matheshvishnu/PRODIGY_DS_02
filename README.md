@@ -4,6 +4,7 @@ OVERVIEW:
 This task performs comprehensive analysis of the Titanic Dataset, which consists of three distinct datasets: train, test, and gender submission. The primary focus is on gaining insights into the relationships between variables and applying Data Cleaning and Exploratory Data Analysis (EDA) techniques.
 
 TASKS IMPLEMENTED:
+
 1] It utilizes Python Libraries like pandas, matplotlib, numpy, seaborn.
 
 2] Extracting information from the dataset.

@@ -1,4 +1,4 @@
-# PRODIGY_DS_02
+# PRODIGY_DS_Task2
 Title: Data Cleaning and Exploratory Data Analysis (EDA) on Titanic Dataset
 OVERVIEW:
 This task performs comprehensive analysis of the Titanic Dataset, which consists of three distinct datasets: train, test, and gender submission. The primary focus is on gaining insights into the relationships between variables and applying Data Cleaning and Exploratory Data Analysis (EDA) techniques.
